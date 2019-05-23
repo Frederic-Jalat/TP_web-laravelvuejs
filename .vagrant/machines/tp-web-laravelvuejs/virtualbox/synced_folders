@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/code":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/code","hostpath":"/Users/frederic/Documents/IUT/S4A/JS/tp_web-laravelvuejs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/frederic/Documents/IUT/S4A/JS/tp_web-laravelvuejs","disabled":false,"__vagrantfile":true}}}
