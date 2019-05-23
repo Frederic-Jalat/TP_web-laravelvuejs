@@ -4,7 +4,8 @@
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <meta name="csrf-token" content="{{ csrf_token() }}" />
-            <title>Realtime to-do app</title>
+            <title>TD Js qui marche jamais</title>
+            <link rel="icon" href="{{ asset('img/caca.png') }}">
             <!-- Fonts -->
             <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
             {{--  Style  --}}
@@ -12,12 +13,13 @@
             <!-- Styles -->
             <style>
                 html, body {
-                    background-color: #fff;
+                    background-color: #2c3e50;
                     color: #636b6f;
                     font-family: 'Nunito', sans-serif;
                     font-weight: 200;
                     height: 100vh;
                     margin: 0;
+                    color: #c0392b;
                 }
                 .full-height {
                     height: 100vh;
